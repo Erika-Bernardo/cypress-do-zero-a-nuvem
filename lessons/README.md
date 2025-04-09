@@ -1,38 +1,28 @@
 # 🌲 Cypress, do Zero à Nuvem ☁️
 
-Projeto de exemplo para o curso "Cypress, do Zero à Nuvem" da escola Talking About Testing.
+👋 Seja bem-vindo(a)!
 
-## Pré-requisitos
+É muito bom tê-lo(a) aqui. Tenho certeza que você vai amar esse curso. ❤️
 
-É necessário ter o GIT, Node.js e npm instalados para clona e rodar esse projeto
+## O que você vai aprender?
 
-> Eu utilizei as versões `2.42.1` and `v20.13.1` do Node.js e npm, respectivamente. Eu sugiro que você utilize as mesmas versões ou as mais atuais.
+- Como configurar um projeto Cypress do zero
+- Como visitar páginas locais e remotas
+- Como lidar com os elementos mais comuns encontrados em aplicações web
+- Como testar upload de arquivos
+- Como realizar as mais diversas verificações de resultados esperados
+- Como criar comandos customizados
+- Como lidar com links que abrem em outra aba do navegador
+- Como rodar testes simulando as dimensões de um dispositivo móvel
+- Como resolver os mesmos problemas de diferentes formas, conhecendo a [API do Cypress](https://docs.cypress.io/api/table-of-contents)
+- Como criar uma documentação mínima para seu projeto de testes automatizados
+- Como executar os testes em um _workflow_ de integração contínua sempre que mudanças ocorrerem no código da aplicação (ou dos testes)
+- Como integrar seu _workflow_ de integração contínua com o Cypress Cloud (o serviço de gestão de testes do Cypress na nuvem)
 
-## Instalação
+## Vamos começar?
 
-Rode `npm install` (ou `npm i` para a versão mais curta) para instalar as dev dependencias.
-
-## Testes
-
-Neste projeto você poderá rodar os testes em janela de visualização para desktop ou mobile. 
-
-
-## Desktop
-
-Rode `npm test` (ou `npm t` para a versão mais curta) para rodar os testes em versão não interativa para visualização desktop.
-Ou rode `npm run cy:open` para abrir o App Cypress(versão interativa) para visualização desktop.
-
-
-## Mobile
-
-Rode `npm test:mobile` para rodar os testes em versão não interativa para visualização mobile.
-Ou rode `npm run cy:open:mobile` para abrir o App Cypress(versão interativa) para visualização mobile.
-
-
-## Support this project
-
-Se você quiser apoiar esse projeto, deixe uma ⭐.
+Vá para a seção [estrutura do curso](./lessons/_course-structure_.md).
 
 ___
 
-This project was created with 💗 by [Érika].
+Este é um curso da **Escola Talking About Testing**.
